@@ -13,12 +13,12 @@ This project aims to develop a time series forecasting model to predict the dema
 
 ## How to Use
 1. Ensure you have Python installed on your system.
-2. Install the required libraries by running `pip install -r requirements.txt`.
-3. Download the `sales_data.csv` file or replace it with your own dataset.
+2. Install the required libraries by running `pip install Pandas' ; 'pip install NumPy' ; 'pip install Matplotlib' ; pip install Statsmodels; pip install Scikit-learn`.
+3. Download the dataset file or replace it with your own dataset.
 4. Run the code in a Python environment or Jupyter Notebook.
 
 ## Code Explanation
-- Load the sales data from `sales_data.csv`.
+- Load the sales data from dataset.
 - Convert the date column to datetime type and set it as the index with explicit frequency.
 - Visualize the sales data over time.
 - Decompose the time series into trend, seasonality, and residuals using seasonal decomposition.
