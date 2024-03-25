@@ -26,3 +26,6 @@ This project aims to develop a time series forecasting model to predict the dema
 - Build and train the forecasting model using Holt-Winters Exponential Smoothing.
 - Forecast future demand and evaluate the model's performance using mean squared error (MSE).
 - Visualize the forecasted demand along with the actual sales data.
+
+- ## Results
+The mean squared error (MSE) for the forecasting model is calculated.
